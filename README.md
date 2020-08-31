@@ -1,36 +1,17 @@
 # COVID19-Portugal
-COVID19  Portugal
 
-*SoBioS - Sobol' Indices for Biological Systems* is an easy to run Matlab code used for Sobol' indices-based global sensitivity analysis of Biological Systems. The implementation follows an educational style, to make its use very intuitive. 
-
-This package includes the following modules:
-
-- SoBioS_CaseName.m - main file for the simulation (use servaral resourses from UQLab package);
-- QoI_CaseName.m - function to compute the Quantity of Interest (QoI).
-
-
-## Software History
-
-This code was developed as a pedagogical tool to teach the basics of global sensitivity analysis of biological systems via Sobol' indices. A tutorial explaining the theory and practical aspects behind *SoBioS* package is provided in the following book chapter:
-- Michel Tosin, Adriano Côrtes, Americo Cunha Jr, A Tutorial on Sobols' Global Sensitivity Analysis Applied to Biological Models, 2020
-
-## UQLab dependency
-
-In order to use the *SoBioS* code, it is necessary to have UQLab package installed:
-https://www.uqlab.com
-
-This external package is free for academic use.
+*COVID19-Portugal* package induces a statistical logistic regressor to fit the COVID-19 epidemic data for Portugal. The results are discussed in the following paper:
+- F. Batista, A. Cunha Jr, Inferência dos Estágios Iniciais da COVID-19 em Portugal, 2020
 
 ## Authors
-- Michel Tosin
-- Adriano Côrtes
+- Fernando Batista
 - Americo Cunha
 
-## Citing SoBioS
+## Citing COVID19-Portugal
 
-We kindly ask users to cite the following reference in any publications reporting work done with *SoBioS*:
-- Michel Tosin, Adriano Côrtes, Americo Cunha Jr, A Tutorial on Sobols' Global Sensitivity Analysis Applied to Biological Models, 2020
+We kindly ask users of this material to cite the following reference in any publications reporting work done with *COVID19-Portugal*:
+- F. Batista, A. Cunha Jr, Inferência dos Estágios Iniciais da COVID-19 em Portugal, 2020
 
 ## License
 
-*SoBioS* is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
+*COVID19-Portugal* is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
