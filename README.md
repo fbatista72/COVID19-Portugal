@@ -10,7 +10,7 @@
 ## Citing COVID19-Portugal
 
 We kindly ask users of this material to cite the following reference in any publications reporting work done with **COVID19-Portugal**:
-- F. Batista, A. Cunha Jr, Inferência dos Estágios Iniciais da COVID-19 em Portugal, 2020
+- F. C. Batista, A. Cunha Jr, Inferência dos Estágios Iniciais da COVID-19 em Portugal, 2020
 
 ## License
 
